@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Johann Pino`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `johann pino`,
+      summary: `- Frontend Developer - `,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Analista programador y Desarrollador en Javascript, vivo en Santiago, Chile.`,
+    siteUrl: `https://johannpino.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `johann_pino`,
     },
   },
   plugins: [
