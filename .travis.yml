@@ -5,9 +5,5 @@ cache: yarn
 branches:
   only:
     - master
-before_script:
-  - "yarn global add firebase-tools"
 script:
   - "yarn build"
-after_success:
-  - "firebase deploy --token=${FIREBASE_API_TOKEN}"
