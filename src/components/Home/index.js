@@ -1,4 +1,3 @@
-import React from 'react';
 import { HomeTitle } from './style';
 
 const Home = () => {
